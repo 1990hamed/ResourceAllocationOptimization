@@ -153,6 +153,11 @@ Five CSV files in `data/raw/`:
 | `inventory_*.png` | EDA plots for inventory costs and stockout risk |
 | `financial_*.png` | EDA plots for financial trends and distributions |
 
+## Authors
+
+- **Tahereh Ariaee** — Thesis author
+- **Hamed Shahbazi** — Programming and pipeline development
+
 ## References
 
 - Mirjalili, S., Mirjalili, S. M., & Lewis, A. (2014). Grey wolf optimizer. *Advances in Engineering Software*, 69, 46–61.
